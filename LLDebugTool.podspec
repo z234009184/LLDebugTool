@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author              = { "HDB-Li" => "llworkinggroup1992@gmail.com" }
   s.social_media_url    = "https://github.com/HDB-Li"
   s.platform            = :ios, "8.0"
-  s.source              = { :git => "https://github.com/HDB-Li/LLDebugTool.git", :tag => s.version }
+  s.source              = { :git => "https://github.com/z234009184/LLDebugTool.git", :tag => s.version }
   s.requires_arc        = true
   s.public_header_files = "LLDebugTool/**/*.h"
   s.source_files	    = "LLDebugTool/**/*.{h,m}"
